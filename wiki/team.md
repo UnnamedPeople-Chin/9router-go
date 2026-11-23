@@ -23,7 +23,7 @@ score.
       <p class="contrib-name"><a href="https://github.com/luqman-v1">Luqmannul Hakim</a></p>
       <p class="contrib-login">@luqman-v1</p>
       <p class="contrib-count">Backend Engineer with Positive Mental Attitude</p>
-      <p class="contrib-count">707 commits · repository owner</p>
+      <p class="contrib-count">712 commits · repository owner</p>
     </div>
   </div>
 
@@ -45,7 +45,14 @@ score.
     <img src="https://avatars.githubusercontent.com/u/20932301?v=4&s=200" alt="Helmi Amirudin" loading="lazy" decoding="async" width="64" height="64" />
     <p class="contrib-name"><a href="https://github.com/helmiau">Helmi Amirudin</a></p>
     <p class="contrib-login">@helmiau</p>
-    <p class="contrib-count">80 commits</p>
+    <p class="contrib-count">81 commits</p>
+  </div>
+
+  <div class="contrib-card">
+    <img src="https://avatars.githubusercontent.com/u/205633185?v=4&s=200" alt="Alexios Mercer" loading="lazy" decoding="async" width="64" height="64" />
+    <p class="contrib-name"><a href="https://github.com/UnnamedPeople-Chin">Alexios Mercer</a></p>
+    <p class="contrib-login">@UnnamedPeople-Chin</p>
+    <p class="contrib-count">27 commits</p>
   </div>
 
   <div class="contrib-card">
@@ -53,13 +60,6 @@ score.
     <p class="contrib-name"><a href="https://github.com/Enc48">Thomas Vincent</a></p>
     <p class="contrib-login">@Enc48</p>
     <p class="contrib-count">21 commits</p>
-  </div>
-
-  <div class="contrib-card">
-    <img src="https://avatars.githubusercontent.com/u/205633185?v=4&s=200" alt="Alexios Mercer" loading="lazy" decoding="async" width="64" height="64" />
-    <p class="contrib-name"><a href="https://github.com/UnnamedPeople-Chin">Alexios Mercer</a></p>
-    <p class="contrib-login">@UnnamedPeople-Chin</p>
-    <p class="contrib-count">16 commits</p>
   </div>
 
   <div class="contrib-card">
